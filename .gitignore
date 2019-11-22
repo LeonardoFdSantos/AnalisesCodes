@@ -123,5 +123,7 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
-*.xml
+Develop
 *.iml
+*.xml
+master
