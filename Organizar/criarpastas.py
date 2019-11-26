@@ -15,6 +15,9 @@ maximo = nomesloop.count()+1
 for i in range(1,maximo):
     nome = nomesloop[:i:]
 
+pastaOrganiza = './organização/'
+os.makedirs(pastaOrganiza)
+
 path = './contas'
 for x in nome:
     dir = path+'/'+x
