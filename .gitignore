@@ -1,3 +1,5 @@
+node_modules
+.env
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
@@ -127,3 +129,19 @@ Develop
 *.iml
 *.xml
 master
+
+SistemaWeb/node_modules/empty-dir/
+
+SistemaWeb/node_modules/postgresql/
+
+SistemaWeb/package-lock.json
+
+.idea/dataSources/4dd59cc3-c496-400c-b1a8-40abc70f5458/storage_v2/_src_/database/postgres.edMnLQ.meta
+
+.idea/dataSources/4dd59cc3-c496-400c-b1a8-40abc70f5458/storage_v2/_src_/database/postgres.edMnLQ/schema/information_schema.FNRwLQ.meta
+
+*.meta
+
+*.cookies
+
+.idea/httpRequests/http-requests-log.http
